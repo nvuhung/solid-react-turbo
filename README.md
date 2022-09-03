@@ -10,7 +10,7 @@ This turborepo uses [pnpm](https://pnpm.io) as a package manager. It includes th
 - `solid-app`: a [Solid](https://www.solidjs.com/) app
 - `eslint-config-custom`: `eslint` configurations (includes `eslint-config-next` and `eslint-config-prettier`)
 - `tsconfig`: `tsconfig.json`s used throughout the monorepo
-- `styles`: share app styles
+- `styles`: share app styles, using [Tailwind CSS](https://tailwindcss.com/)
 
 Each package/app is 100% [TypeScript](https://www.typescriptlang.org/).
 
